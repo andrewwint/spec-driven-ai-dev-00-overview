@@ -182,13 +182,13 @@ By the end of this series, you will have a **Production-Ready System**:
 
 ## 📚 The Learning Path
 
-| Course               | Focus                | Key Concept Introduced                                        | What You Build                   | Time |
-| -------------------- | -------------------- | ------------------------------------------------------------- | -------------------------------- | ---- |
-| **1. Foundations**   | Spec-driven workflow | DARE Model, Doer+Gate agents                                  | Hello World Pipeline             | ~9h  |
-| **2. Data Platform** | Pipelines + Advisors | **Advisor Pattern, Progressive Disclosure**                   | Customer Data Pipeline           | ~10h |
-| **3. ML Pipelines**  | Models + Eval Gates  | Experiment Proposals, Evaluation Gates, 🏢 Enterprise Context | Classification/Regression Models | ~9h  |
-| **4. API & Agents**  | Services + MCP       | **MCP Documentation Access** ("10x Google Fu")                | Flask API with Strands Agents    | ~9h  |
-| **5. DevOps**        | Deployment + Ops     | Plan Before Apply, Compliance as Code                         | Full Production Deployment       | ~9h  |
+| Course               | Focus                | Key Concept Introduced                                        | Time |
+| -------------------- | -------------------- | ------------------------------------------------------------- | ---- |
+| **1. Foundations**   | Spec-driven workflow | DARE Model, Doer+Gate agents                                  | ~9h  |
+| **2. Data Platform** | Pipelines + Advisors | **Advisor Pattern, Progressive Disclosure**                   | ~10h |
+| **3. ML Pipelines**  | Models + Eval Gates  | Experiment Proposals, Evaluation Gates, 🏢 Enterprise Context | ~9h  |
+| **4. API & Agents**  | Services + MCP       | **MCP Documentation Access** ("10x Google Fu")                | ~9h  |
+| **5. DevOps**        | Deployment + Ops     | Plan Before Apply, Compliance as Code                         | ~9h  |
 
 **Total:** ~46 hours of content
 
