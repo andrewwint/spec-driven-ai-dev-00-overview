@@ -2,7 +2,7 @@
 
 > **"Manage the LLM's context window like you manage your own attention."**
 
-A hands-on 5-course series for engineers, product managers, and technology leaders adopting AI agents, GitHub Copilot, and LLM workflows in real production environments.
+A hands-on 5-course series for engineers, product managers, and technology leaders adopting AI skills, open standards like AgentSkills.io, and LLM workflows in real production environments.
 
 [![Course 1](https://img.shields.io/badge/Course%201-Foundations-blue)](https://github.com/andrewwint/spec-driven-ai-dev-01-foundations)
 [![Course 2](https://img.shields.io/badge/Course%202-Data%20Platform-green)](https://github.com/andrewwint/spec-driven-ai-dev-02-data-platform)
@@ -14,7 +14,7 @@ A hands-on 5-course series for engineers, product managers, and technology leade
 
 # TL;DR for Engineering Leaders
 
-Spec-Driven AI Development provides a disciplined way to use **AI agents and GitHub Copilot safely inside production software delivery**.
+Spec-Driven AI Development provides a disciplined way to use **AI skills and open standards safely inside production software delivery**.
 
 Teams follow **specs → specialized agents → automated gates → human review** instead of ad-hoc prompting.
 
@@ -208,7 +208,8 @@ By the end of this series, you will have a **Production-Ready System**:
 
 **We keep the stack open and standard:**
 
-- **Editor:** VS Code + GitHub Copilot (Chat)
+- **Editor:** VS Code or any editor with AI skill support
+- **Standards:** [AgentSkills.io](https://agentskills.io) open standard (widely adopted, tool-agnostic)
 - **Runtime:** Python 3.10+, Node 18+
 - **Pkg Mgr:** uv (fast Python management)
 - **No proprietary vendor lock-in required.**
@@ -247,7 +248,7 @@ code/0X-[module-name]/
 ├── HISTORY.md           # Persistent context (Agent owned)
 ├── AGENTS.md            # Agent definitions & strategy
 ├── src/                 # Application source code
-└── .github/agents/      # Copilot Agent definitions
+└── skills/              # AgentSkills.io skill definitions
 ```
 
 ---

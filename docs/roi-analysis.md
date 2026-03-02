@@ -36,22 +36,22 @@ When you have teammates, agents amplify collaboration:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                    TEAM WORKFLOW WITH AGENTS                         │
+│                    TEAM WORKFLOW WITH AGENTS                        │
 ├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Planning (Human + Agent)           Build (Human + Agent)            │
-│  ─────────────────────────          ─────────────────────            │
-│  • Team writes specs together       • Each engineer has agents       │
-│  • Advisor agents explain options   • Doer agents generate code      │
-│  • Proposals reviewed by humans     • Gate agents pre-review         │
-│  • HISTORY.md captures decisions    • Human-to-human PR review       │
-│                                                                      │
-│  Review (Human + Agent)             Deploy (Human-owned)             │
-│  ──────────────────────             ────────────────────             │
-│  • Gate agents run first            • Humans approve releases        │
-│  • Human reviewers focus on logic   • Agents don't have deploy keys  │
-│  • Faster reviews (less nitpicking) • Runbooks guide operations      │
-│                                                                      │
+│                                                                     │
+│  Planning (Human + Agent)           Build (Human + Agent)           │
+│  ─────────────────────────          ─────────────────────           │
+│  • Team writes specs together       • Each engineer has agents      │
+│  • Advisor agents explain options   • Doer agents generate code     │
+│  • Proposals reviewed by humans     • Gate agents pre-review        │
+│  • HISTORY.md captures decisions    • Human-to-human PR review      │
+│                                                                     │
+│  Review (Human + Agent)             Deploy (Human-owned)            │
+│  ──────────────────────             ────────────────────            │
+│  • Gate agents run first            • Humans approve releases       │
+│  • Human reviewers focus on logic   • Agents don't have deploy keys │
+│  • Faster reviews (less nitpicking) • Runbooks guide operations     │
+│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
